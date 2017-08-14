@@ -1,1 +1,1 @@
-FileLogging="OFF"
+FileLogging="ON"

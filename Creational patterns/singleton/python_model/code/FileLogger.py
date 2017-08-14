@@ -17,10 +17,10 @@ class FileLogger(Logger):
 
     def __init__(self):
         """ Private constructor. """
-        if __logger != None:
+        if FileLogger.__logger != None:
             raise Exception("This class is a singleton!")
         else:
-            __logger = self
+            FileLogger.__logger = self
 
     @staticmethod
     def getFileLogger():
