@@ -3,11 +3,11 @@
 In this project we describe design patterns  which are divided in the following categories
 
 1. Base patterns
-  * [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
-  * [Interface]()
+  * Abstract
+  * Interface
 2. Creational patterns
-  * Abstract Factory
-  * Factory Method
-  * Singleton
-  * Prototype
-  * Builder
+  * [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
+  * [Factory Method](CreationalPatterns/factory_method/readme.md)
+  * [Singleton](CreationalPatterns/singleton/readme.md)
+  * [Prototype](CreationalPatterns/prototype/readme.md)
+  * [Builder](CreationalPatterns/builder/readme.md)
