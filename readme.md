@@ -2,7 +2,7 @@
 
 In this project we describe design patterns  which are divided in the following categories
 
-1. Base patterns
+1. Basic patterns
   * Abstract
   * Interface
 2. Creational patterns
@@ -11,3 +11,6 @@ In this project we describe design patterns  which are divided in the following 
   * [Singleton](CreationalPatterns/singleton/readme.md)
   * [Prototype](CreationalPatterns/prototype/readme.md)
   * [Builder](CreationalPatterns/builder/readme.md)
+3. Collectional patterns
+  * [Composite]()
+  * [Iterator]()
