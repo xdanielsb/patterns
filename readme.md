@@ -28,11 +28,28 @@ In this project we describe design patterns  which are divided in the following 
  <tr>
    <td>Class</td>
    <td>
-   ![Element](assets/code/class.png)
    <img src="assets/code/class.png">
    </td>
    <td>
-   ![Element](assets/uml/class.png)
+   <img src="assets/uml/class.png">
+   </td>
+ </tr>
+ <tr>
+   <td>Interface</td>
+   <td>
+   <img src="assets/code/interface.png">
+   </td>
+   <td>
+   <img src="assets/uml/interface.png">
+   </td>
+ </tr>
+ <tr>
+   <td>Abstract Class</td>
+   <td>
+   <img src="assets/code/abstract.png">
+   </td>
+   <td>
+   <img src="assets/uml/abstract.png">
    </td>
  </tr>
 </table>
