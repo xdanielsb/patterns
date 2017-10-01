@@ -52,4 +52,14 @@ In this project we describe design patterns  which are divided in the following 
    <img src="assets/uml/abstract.png">
    </td>
  </tr>
+
+ <tr>
+   <td>Condition If</td>
+   <td>
+   <img src="assets/code/if.png">
+   </td>
+   <td>
+   <img src="assets/uml/if.png">
+   </td>
+ </tr>
 </table>
