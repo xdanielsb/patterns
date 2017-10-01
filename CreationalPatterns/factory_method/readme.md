@@ -4,3 +4,11 @@ __"Define an interface for creating an object, but let subclasses decide which c
 
 ## Model
 ![Model](factory_method.png)
+
+## Example
+
+### Functional Model
+  ![functional](exercise/java_model/functional.png)
+
+### Structural Model
+  ![structural](exercise/java_model/structural.png)

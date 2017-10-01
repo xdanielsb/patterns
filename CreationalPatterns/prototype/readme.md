@@ -4,3 +4,11 @@ __"Specify the kinds of objects to create using a prototypical instance and crea
 
 ## Model
 ![Model](prototype.png)
+
+## Example
+
+### Functional Model
+  ![functional](exercise/exercise2/functional.png)
+
+### Structural Model
+  ![structural](exercise/exercise2/structural.png)

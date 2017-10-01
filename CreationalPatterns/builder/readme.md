@@ -4,3 +4,11 @@ __"Separate the construction of a complex object from its  representation so tha
 
 ## Model
 ![Model](model.png)
+
+## Example
+
+### Functional Model
+  ![functional](exercise/functional.png)
+
+### Structural Model
+  ![structural](exercise/structural.png)

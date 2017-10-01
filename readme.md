@@ -9,7 +9,7 @@ In this project we describe design patterns  which are divided in the following 
   * [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
   * [Factory Method](CreationalPatterns/factory_method/readme.md)
   * [Singleton](CreationalPatterns/singleton/readme.md)
-  * [Object Pool](Not/yet)
+  * [Object Pool](CreationalPatterns/object_pool/readme.md)
   * [Prototype](CreationalPatterns/prototype/readme.md)
   * [Builder](CreationalPatterns/builder/readme.md)
 3. Collectional patterns
