@@ -14,3 +14,24 @@ In this project we describe design patterns  which are divided in the following 
 3. Collectional patterns
   * [Composite]()
   * [Iterator]()
+  * [FlyWeight]()
+  * [Visitor]()
+
+## Notations
+
+<table style="width:100%">
+ <tr>
+   <th> Structure / Element </th>
+   <th> Code </th>
+   <th> Notation </th>
+ </tr>
+ <tr>
+   <td>Class</td>
+   <td>
+   ![](assets/code/class.png)
+   </td>
+   <td>
+   ![](assets/uml/class.png)
+   </td>
+ </tr>
+</table>
