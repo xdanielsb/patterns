@@ -79,4 +79,13 @@ In this project we describe design patterns  which are divided in the following 
    <img src="assets/uml/critical.png">
    </td>
  </tr>
+ <tr>
+   <td>Try catch</td>
+   <td>
+   <img src="assets/code/try.png">
+   </td>
+   <td>
+   <img src="assets/uml/try.png">
+   </td>
+ </tr>
 </table>
