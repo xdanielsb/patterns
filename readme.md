@@ -52,7 +52,15 @@ In this project we describe design patterns  which are divided in the following 
    <img src="assets/uml/abstract.png">
    </td>
  </tr>
-
+ <tr>
+   <td>Static Method</td>
+   <td>
+   <img src="assets/code/static.png">
+   </td>
+   <td>
+   <img src="assets/uml/static.png">
+   </td>
+ </tr>
  <tr>
    <td>Condition If</td>
    <td>
@@ -60,6 +68,15 @@ In this project we describe design patterns  which are divided in the following 
    </td>
    <td>
    <img src="assets/uml/if.png">
+   </td>
+ </tr>
+ <tr>
+   <td>Critical section</td>
+   <td>
+   <img src="assets/code/critical.png">
+   </td>
+   <td>
+   <img src="assets/uml/critical.png">
    </td>
  </tr>
 </table>
