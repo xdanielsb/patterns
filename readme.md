@@ -89,3 +89,10 @@ In this project we describe design patterns  which are divided in the following 
    </td>
  </tr>
 </table>
+
+## Acknowledgments
+  ### Partha Kuchana
+  > Many of the examples shown are taken form the book of Partha Kuchana
+
+  ### Henry Diosa
+  > Teacher at Universidad Distrital has contribute with his teachings and experience.
