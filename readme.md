@@ -92,7 +92,7 @@ In this project we describe design patterns  which are divided in the following 
 
 ## Acknowledgments
   ### Partha Kuchana
-  > Many of the examples shown are taken form the book of Partha Kuchana
+  > Many of the examples shown are taken from the book of Partha Kuchana
 
   ### Henry Diosa
   > Teacher at Universidad Distrital has contribute with his teachings and experience.
