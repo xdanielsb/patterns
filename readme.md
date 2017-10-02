@@ -12,11 +12,11 @@ In this project we describe design patterns  which are divided in the following 
   * [Object Pool](CreationalPatterns/object_pool/readme.md)
   * [Prototype](CreationalPatterns/prototype/readme.md)
   * [Builder](CreationalPatterns/builder/readme.md)
-3. Collectional patterns
-  * [Composite]()
-  * [Iterator]()
-  * [FlyWeight]()
-  * [Visitor]()
+3. [Collectional patterns](CollectionalPatterns/readme.md)
+  * [Composite](CollectionalPatterns/composite/readme.md)
+  * [Iterator](CollectionalPatterns/iterator/readme.md)
+  * [FlyWeight](CollectionalPatterns/flyweight/readme.md)
+  * [Visitor](CollectionalPatterns/visitor/readme.md)
 
 ## Notations
 
