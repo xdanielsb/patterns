@@ -96,4 +96,4 @@ In this project we describe design patterns  which are divided in the following 
   > Many of the examples shown are taken from the book of Partha Kuchana
 
   ### Henry Diosa
-  > Teacher at Universidad Distrital has contribute with his teachings and experience.
+  > Teacher at Universidad Distrital has contributed with his teachings and experience.
