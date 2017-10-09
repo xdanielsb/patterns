@@ -2,21 +2,23 @@
 
 In this project we describe design patterns  which are divided in the following categories
 
-1. Basic patterns
-  * Abstract
-  * Interface
-2. [Creational patterns](CreationalPatterns/readme.md)
-  * [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
-  * [Factory Method](CreationalPatterns/factory_method/readme.md)
-  * [Singleton](CreationalPatterns/singleton/readme.md)
-  * [Object Pool](CreationalPatterns/object_pool/readme.md)
-  * [Prototype](CreationalPatterns/prototype/readme.md)
-  * [Builder](CreationalPatterns/builder/readme.md)
-3. [Collectional patterns](CollectionalPatterns/readme.md)
-  * [Composite](CollectionalPatterns/composite/readme.md)
-  * [Iterator](CollectionalPatterns/iterator/readme.md)
-  * [FlyWeight](CollectionalPatterns/flyweight/readme.md)
-  * [Visitor](CollectionalPatterns/visitor/readme.md)
+The following patterns are described, for each pattern is shown the model and example with code; Each example has source code, functional model, structural model and the behavioural model is attached in inside the binary file of the model due the size of the model. You can click on the link to go to the model.
+
+- Basic patterns
+  - Abstract
+  - Interface
+- [Creational patterns](CreationalPatterns/readme.md)
+  - [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
+  - [Factory Method](CreationalPatterns/factory_method/readme.md)
+  - [Singleton](CreationalPatterns/singleton/readme.md)
+  - [Object Pool](CreationalPatterns/object_pool/readme.md)
+  - [Prototype](CreationalPatterns/prototype/readme.md)
+  - [Builder](CreationalPatterns/builder/readme.md)
+- [Collectional patterns](CollectionalPatterns/readme.md)
+  - [Composite](CollectionalPatterns/composite/readme.md)
+  - [Iterator](CollectionalPatterns/iterator/readme.md)
+  - [FlyWeight](CollectionalPatterns/flyweight/readme.md)
+  - [Visitor](CollectionalPatterns/visitor/readme.md)
 
 ## Notations
 
