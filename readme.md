@@ -21,13 +21,13 @@ The following patterns are described, for each pattern is shown the model and ex
   - [Visitor](CollectionalPatterns/visitor/readme.md)
 - [Structural patterns](StructuralPatterns/readme.md)
   - [Adapter](StructuralPatterns/Adapter/readme.md)
-  - [Bridge](StructuralPatterns/Adapter/readme.md)
-  - [Chain of Responsibility](StructuralPatterns/Adapter/readme.md)
+  - [Bridge](StructuralPatterns/Bridge/readme.md)
+  - [Chain of Responsibility](StructuralPatterns/ChainResponsibility/readme.md)
   - [Proxy](StructuralPatterns/Proxy/readme.md)
-    - [Counting Proxy](StructuralPatterns/Adapter/readme.md)
-    - [Virtual Proxy](StructuralPatterns/Adapter/readme.md)
-  - [Decorator](StructuralPatterns/Adapter/readme.md)
-  - [Facade](StructuralPatterns/Adapter/readme.md)
+    - [Counting Proxy](StructuralPatterns/Proxy/CountingProxy/readme.md)
+    - [Virtual Proxy](StructuralPatterns/Proxy/VirtualProxy/readme.md)
+  - [Decorator](StructuralPatterns/Decorator/readme.md)
+  - [Facade](StructuralPatterns/Facade/readme.md)
 
 ## Notations
 
