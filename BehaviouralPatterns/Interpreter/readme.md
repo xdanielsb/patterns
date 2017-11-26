@@ -1,7 +1,7 @@
 # Interpreter
 
 ## Model
-![Model](iterpreter.png)
+![Model](interpreter.png)
 
 ## Example
 
