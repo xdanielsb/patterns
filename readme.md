@@ -28,6 +28,15 @@ The following patterns are described, for each pattern is shown the model and ex
     - [Virtual Proxy](StructuralPatterns/Proxy/VirtualProxy/readme.md)
   - [Decorator](StructuralPatterns/Decorator/readme.md)
   - [Facade](StructuralPatterns/Facade/readme.md)
+- [Behavioural Patterns](BehaviouralPatterns/readme.md)
+  -[Command](BehaviouralPatterns/Command/readme.md)
+  -[Interpreter](BehaviouralPatterns/Interpreter/readme.md)
+  -[Mediator](BehaviouralPatterns/Mediator/readme.md)
+  -[Memento](BehaviouralPatterns/Memento/readme.md)
+  -[Observer](BehaviouralPatterns/Observer/readme.md)
+  -[State](BehaviouralPatterns/State/readme.md)
+  -[Strategy](BehaviouralPatterns/Strategy/readme.md)
+  -[Template](BehaviouralPatterns/Template/readme.md)
 
 ## Notations
 
