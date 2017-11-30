@@ -1,4 +1,6 @@
 # Creational Patterns
+  - Provide ways to create objects while hiding the creation logic.
+
   * [Abstract Factory](abstract_factory/readme.md)
 
   __"Provide an interface for creating families of related or dependent object without specifying their concrete classes."__ [GoF]
