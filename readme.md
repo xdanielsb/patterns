@@ -109,6 +109,15 @@ The following patterns are described, for each pattern is shown the model and ex
    <img src="assets/uml/try.png">
    </td>
  </tr>
+ <tr>
+   <td>Threads</td>
+   <td>
+   <img src="assets/code/thread.png">
+   </td>
+   <td>
+   <img src="assets/uml/thread.png">
+   </td>
+ </tr>
 </table>
 
 ## Acknowledgments
