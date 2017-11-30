@@ -3,9 +3,11 @@
 
   * [Composite](composite/readme.md)
     - Allows both individual objects and composite objects to be treated uniformly.
+    - Compose objects into tree structures  to represent whole-part hierarchies.
 
   * [flyweight](flyweight/readme.md)
     - The invariant information are separated into two classes leading to savings in terms of the memory usage and the amount of time required to create a large number of instances.
+    - Use sharing to support large numbers of fine grained objects efficiently.
 
   * [Iterator](iterator/readme.md)
     - Access the contents of a collection without having any knowledge about the internal representation of its contents.
