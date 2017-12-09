@@ -2,11 +2,29 @@
 
 In this project we describe design patterns  which are divided in the following categories
 
-The following patterns are described, for each pattern is shown the model and example with code; Each example has source code, functional model, structural model and the behavioural model is attached in inside the binary file of the model due the size of the model. You can click on the link to go to the model.
+The following patterns are described, for each pattern is shown the model and example with code; Each example has source code, functional model, structural model and the behavioral model is attached in inside the binary file of the model due the size of the model. You can click on the link to go to the model.
 
-- Basic patterns
-  - Abstract
-  - Interface
+
+## Acknowledgments
+  ### Partha Kuchana
+  > Many of the examples shown are taken from the book of Partha Kuchana
+
+  ### Henry Diosa
+  > Teacher at Universidad Distrital has contributed with his teachings and experience.
+  [linkedin](https://www.linkedin.com/in/henry-alberto-diosa-577136bb/)
+
+
+## Projects Created using Design patterns
+ - [Orders Project](https://github.com/xdanielsb/OrdersProject)
+ - [Symbolic Expressions](https://github.com/xdanielsb/SymbolicExpressions)
+
+
+
+## Design Patterns
+
+- [Basic patterns](#)
+  - [Abstract](#)
+  - [Interface](#)
 - [Creational patterns](CreationalPatterns/readme.md)
   - [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
   - [Factory Method](CreationalPatterns/factory_method/readme.md)
@@ -37,6 +55,11 @@ The following patterns are described, for each pattern is shown the model and ex
   - [State](BehaviouralPatterns/State/readme.md)
   - [Strategy](BehaviouralPatterns/Strategy/readme.md)
   - [Template](BehaviouralPatterns/Template/readme.md)
+- [Concurrency Patterns](#)
+  - [Consistent Lock Order](#)
+  - [Critical Section](#)
+  - [Guarded Suspension](#)
+  - [Read-Write Lock](#)
 
 ## Notations
 
@@ -119,10 +142,3 @@ The following patterns are described, for each pattern is shown the model and ex
    </td>
  </tr>
 </table>
-
-## Acknowledgments
-  ### Partha Kuchana
-  > Many of the examples shown are taken from the book of Partha Kuchana
-
-  ### Henry Diosa
-  > Teacher at Universidad Distrital has contributed with his teachings and experience.
