@@ -1,17 +1,8 @@
 # Design patterns
 
-In this project we describe design patterns  which are divided in the following categories
 
 The following patterns are described, for each pattern is shown the model and example with code; Each example has source code, functional model, structural model and the behavioral model is attached in inside the binary file of the model due the size of the model. You can click on the link to go to the model.
 
-
-## Acknowledgments
-  ### Partha Kuchana
-  > Many of the examples shown are taken from the book of Partha Kuchana
-
-  ### Henry Diosa
-  > Teacher at Universidad Distrital has contributed with his teachings and experience.
-  [linkedin](https://www.linkedin.com/in/henry-alberto-diosa-577136bb/)
 
 
 ## Projects Created using Design patterns
@@ -22,10 +13,10 @@ The following patterns are described, for each pattern is shown the model and ex
 
 ## Design Patterns
 
-- [Basic patterns](#)
-  - [Abstract](#)
-  - [Interface](#)
-- [Creational patterns](CreationalPatterns/readme.md)
+- Basic patterns
+  - Abstract
+  - Interface
+- [Creational patterns (See general description)](CreationalPatterns/readme.md)
   - [Abstract Factory](CreationalPatterns/abstract_factory/readme.md)
   - [Factory Method](CreationalPatterns/factory_method/readme.md)
   - [Singleton](CreationalPatterns/singleton/readme.md)
@@ -37,7 +28,7 @@ The following patterns are described, for each pattern is shown the model and ex
   - [Iterator](CollectionalPatterns/iterator/readme.md)
   - [FlyWeight](CollectionalPatterns/flyweight/readme.md)
   - [Visitor](CollectionalPatterns/visitor/readme.md)
-- [Structural patterns](StructuralPatterns/readme.md)
+- [Structural patterns (See general description)](StructuralPatterns/readme.md)
   - [Adapter](StructuralPatterns/Adapter/readme.md)
   - [Bridge](StructuralPatterns/Bridge/readme.md)
   - [Chain of Responsibility](StructuralPatterns/ChainResponsibility/readme.md)
@@ -46,7 +37,7 @@ The following patterns are described, for each pattern is shown the model and ex
     - [Virtual Proxy](StructuralPatterns/Proxy/VirtualProxy/readme.md)
   - [Decorator](StructuralPatterns/Decorator/readme.md)
   - [Facade](StructuralPatterns/Facade/readme.md)
-- [Behavioural Patterns](BehaviouralPatterns/readme.md)
+- [Behavioural Patterns (See general description)](BehaviouralPatterns/readme.md)
   - [Command](BehaviouralPatterns/Command/readme.md)
   - [Interpreter](BehaviouralPatterns/Interpreter/readme.md)
   - [Mediator](BehaviouralPatterns/Mediator/readme.md)
@@ -55,7 +46,7 @@ The following patterns are described, for each pattern is shown the model and ex
   - [State](BehaviouralPatterns/State/readme.md)
   - [Strategy](BehaviouralPatterns/Strategy/readme.md)
   - [Template](BehaviouralPatterns/Template/readme.md)
-- [Concurrency Patterns](#)
+- [Concurrency Patterns (See general description)](#)
   - [Consistent Lock Order](#)
   - [Critical Section](#)
   - [Guarded Suspension](#)
@@ -142,3 +133,13 @@ The following patterns are described, for each pattern is shown the model and ex
    </td>
  </tr>
 </table>
+
+
+
+## Acknowledgments
+  ### Partha Kuchana
+  > Many of the examples shown are taken from the book of Partha Kuchana
+
+  ### Henry Diosa
+  > Teacher at Universidad Distrital has contributed with his teachings and experience.
+  [linkedin](https://www.linkedin.com/in/henry-alberto-diosa-577136bb/)
