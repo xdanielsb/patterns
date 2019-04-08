@@ -8,7 +8,7 @@
 ![collection](Composite/composite.png)
 
 
-### [flyweight](Flyweight/readme.md)
+### [Flyweight](Flyweight/readme.md)
   - The invariant information are separated into two classes leading to savings in terms of the memory usage and the amount of time required to create a large number of instances.
   - Use sharing to support large numbers of fine grained objects efficiently.
 
