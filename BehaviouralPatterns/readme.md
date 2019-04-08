@@ -7,7 +7,7 @@
 ![structural](Command/command.png)
 
 ### [Interpreter](Interpreter/readme.md)
-  - Helps to interpreting operations using its grammar.
+  - Helps to interpret operations using its grammar.
   - Given a language,   define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.
 
 
@@ -25,7 +25,7 @@
 ![structural](Memento/memento.png)
 
 ### [Observer](Observer/readme.md)
-  - Promotes a publisher-subscriber communication model when there is a one-to-many dependency between objects so that when on objects change of state, all of its dependents are notified so they can update their state.
+  - Promotes a publisher-subscriber communication model when there is a one-to-many dependency between objects so that when one object change of state, all of its dependents are notified so they can update their state.
   - Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
 
