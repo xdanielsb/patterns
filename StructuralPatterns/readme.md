@@ -43,5 +43,5 @@ __"Allows a separate object to be used as a substitute to provide controlled acc
 ![structural](Proxy/proxy.png)
 
 
-  - [Virtual proxy](VirtualProxy/readme.md): Helps to create objects on demand (until required)
-  - [Counting proxy](CountingProxy/readme.md): To provide some kind of audit mechanism before executing a method on a target object.
+  - [Virtual proxy](Proxy/VirtualProxy/readme.md): Helps to create objects on demand (until required)
+  - [Counting proxy](Proxy/CountingProxy/readme.md): To provide some kind of audit mechanism before executing a method on a target object.
